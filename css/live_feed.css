@@ -1,0 +1,73 @@
+.feed
+{
+background-color: transparent; margin: 1px; 
+padding: 1px;
+border-style: solid; border-color: black;
+}
+
+.live_post_box
+{
+  width: 100%;
+}
+
+.live_feed_textarea
+{
+  width: 90%;
+  height: 75px;
+}
+
+.feed_item
+{
+  padding: 1px;
+  border-style: solid none none;
+  border-top-color: gray;
+  border-width: 1px;
+  border-padding-top: 10px;
+  padding-top: 10px;
+}
+
+.feed_author_img
+{
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  float: left;
+  
+}
+
+.comment_headline 
+{
+	
+}
+
+
+.comment_author
+{
+font-weight: bold; clip: rect(auto auto auto auto); font-size: larger; color: rgb(0, 0, 205); text-decoration: underline;
+padding-left: 10px;
+padding-right: 10px;
+float: left;
+}
+
+.comment_content
+{
+padding-top: 20px;
+padding-left: 50px;
+}
+
+.comment_date
+{
+  font-size: smaller;
+  font-style: italic;
+  padding-left: 10px;
+  
+}
+
+.feed_comment
+{
+background-color: rgb(169, 169, 169); 
+padding: 1px; 
+margin: 50px; 
+border-width: 1px;
+border-style: solid none none; border-top-color: black;
+}
